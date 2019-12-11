@@ -1,6 +1,8 @@
 ## **Customer_Fraudulent**
 
-There is a JSON profiles representing fictional customers from an e-commerce company. The profiles contain information about the customer, their orders, their transactions, what payment methods they used and whether the customer is fraudulent or not. Your task is one of the following.
+Problem statement:
+
+There is a data of JSON profiles representing fictional customers from an e-commerce company. The profiles contain information about the customer, their orders, their transactions, what payment methods they used and whether the customer is fraudulent or not. Your task is one of the following.
 
 1) Option A
  * Transform the json profiles into feature vectors 
